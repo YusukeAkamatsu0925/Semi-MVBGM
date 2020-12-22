@@ -1,7 +1,8 @@
 # Semi-MVBGM
 The code of Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 
-"Semi-MVBGM.ipynb" produces the results of TABLE I and Fig.8 in the paper.
+"Semi-MVBGM.ipynb" produces the results of TABLE I and Fig.8 in the paper[*].
+[*]
 
 # cite
 Please cite our paper if you want to use this code in your own work:
