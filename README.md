@@ -3,6 +3,20 @@ The code of Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 
 "Semi-MVBGM.ipynb" produces the results of TABLE I and Fig.8 in the paper.
 
+# cite
+Please cite our paper if you want to use this code in your own work:
+```
+@article{akamatsu2020brain,
+  title={Brain Decoding of Viewed Image Categories via Semi-Supervised Multi-View Bayesian Generative Model},
+  author={Akamatsu, Yusuke and Harakawa, Ryosuke and Ogawa, Takahiro and Haseyama, Miki},
+  journal={IEEE Transactions on Signal Processing},
+  volume={68},
+  pages={5769--5781},
+  year={2020},
+  publisher={IEEE}
+}
+```
+
 Dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
 
 [5] T. Horikawa and Y. Kamitani, “Generic decoding of seen and imagined objects using hierarchical visual features,” Nature Commun., vol. 8, no. 15037, pp. 1–15, 2017.
