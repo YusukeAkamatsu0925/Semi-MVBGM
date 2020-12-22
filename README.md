@@ -19,7 +19,7 @@ Please cite our paper if you want to use this code in your own work:
 - Semi-MVBGM.py : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
   *Note that the above codes do not produce exactly the same results as TABLE I and Fig.8 since prior distributions are randomly initialized by a multivariate normal distribution.
 # data
-Dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
+fMRI dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
 
 [5] T. Horikawa and Y. Kamitani, “Generic decoding of seen and imagined objects using hierarchical visual features,” Nature Commun., vol. 8, no. 15037, pp. 1–15, 2017.
 
