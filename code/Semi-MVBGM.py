@@ -78,7 +78,7 @@ subject = 3 # subject index
 maxiter = 10 # number of updating model parameters
 thres_a_inv = 1e-1 # ARD parameter
 eta = 0.5 # trade-off parameter between visual features and category features
-N_trial = 10 # trial numbers of model training and prediction (N_trial was set to 1000 in the original paper.)
+N_trial = 100 # trial numbers of model training and prediction (N_trial was set to 1000 in the original paper.)
 
 
 # # Initialize
