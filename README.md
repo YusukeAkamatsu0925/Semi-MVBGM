@@ -1,9 +1,6 @@
 # Semi-MVBGM
 The code of Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 
-"Semi-MVBGM.ipynb" produces the results of TABLE I and Fig.8 in the paper[*].
-[*]
-
 # cite
 Please cite our paper if you want to use this code in your own work:
 ```
@@ -17,16 +14,15 @@ Please cite our paper if you want to use this code in your own work:
   publisher={IEEE}
 }
 ```
-
-Dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
-
-[5] T. Horikawa and Y. Kamitani, “Generic decoding of seen and imagined objects using hierarchical visual features,” Nature Commun., vol. 8, no. 15037, pp. 1–15, 2017.
-
 # code
 - Semi-MVBGM.ipynb : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
 - Semi-MVBGM.py : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
   *Note that the above codes do not produce exactly the same results as TABLE I and Fig.8 since prior distributions are randomly initialized by a multivariate normal distribution.
 # data
+Dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
+
+[5] T. Horikawa and Y. Kamitani, “Generic decoding of seen and imagined objects using hierarchical visual features,” Nature Commun., vol. 8, no. 15037, pp. 1–15, 2017.
+
 - candidate_name.txt : category names of candidates (10,000 candidates, top 50 categories are 50 test categories)
 - test_images : images of the original 50 test categories
 - fMRI_activiy.mat : fMRI activity of five subjects        
