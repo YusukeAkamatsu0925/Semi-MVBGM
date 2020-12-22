@@ -4,7 +4,7 @@ The code of Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 "Semi-MVBGM.ipynb" produces the results of TABLE I and Fig.8 in the paper.
 
 Dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
-[5] T. Horikawa and Y. Kamitani, “Generic decoding of seen and imagined objects using hierarchical visual features,” Nature Commun., vol. 8, no. 15037, pp. 1–15, 2017.
+-[5] T. Horikawa and Y. Kamitani, “Generic decoding of seen and imagined objects using hierarchical visual features,” Nature Commun., vol. 8, no. 15037, pp. 1–15, 2017.
 
 # code
 - Semi-MVBGM.ipynb : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
