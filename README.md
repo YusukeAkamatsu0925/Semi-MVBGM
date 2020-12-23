@@ -21,7 +21,7 @@ Please cite our paper if you want to use this code in your work:
   *Note that the above codes do not produce exactly the same results as TABLE I and Fig.8 since prior distributions are randomly initialized by a multivariate normal distribution.
   
 # requirements
-- jupyter notebook
+- Jupyter Notebook
 - numpy
 - scipy
 - matplotlib
