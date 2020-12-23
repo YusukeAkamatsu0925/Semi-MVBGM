@@ -2,7 +2,7 @@
 The code of Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 
 # cite
-Please cite our paper if you want to use this code in youwork:
+Please cite our paper if you want to use this code in your work:
 ```
 @article{akamatsu2020brain,
   title={Brain Decoding of Viewed Image Categories via Semi-Supervised Multi-View Bayesian Generative Model},
