@@ -10,8 +10,7 @@ Please cite our paper if you want to use this code in your work:
   journal={IEEE Transactions on Signal Processing},
   volume={68},
   pages={5769--5781},
-  year={2020},
-  publisher={IEEE}
+  year={2020}
 }
 ```
 # code
