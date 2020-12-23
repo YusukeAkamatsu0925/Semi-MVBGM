@@ -25,7 +25,7 @@ Please cite our paper if you want to use this code in your work:
 - numpy
 - scipy
 - matplotlib
-- pillow
+- Pillow
 
 # data
 fMRI dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
