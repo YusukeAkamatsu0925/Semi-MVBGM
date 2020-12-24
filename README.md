@@ -13,7 +13,7 @@ Please cite our paper if you want to use this code in your work:
   year={2020}
 }
 ```
-If you use the code for MVBGM, please cite the following paper in addition the above paper.
+If you use the code for MVBGM, please cite the following paper in addition to the above paper.
 ```
 @inproceedings{akamatsu2019estimating,
   title={Estimating Viewed Image Categories from fMRI Activity via Multi-view Bayesian Generative Model},
