@@ -1,5 +1,5 @@
 # Semi-MVBGM
-The code of Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
+The code for Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 
 # cite
 Please cite our paper if you want to use this code in your work:
@@ -13,6 +13,17 @@ Please cite our paper if you want to use this code in your work:
   year={2020}
 }
 ```
+If you use the code for MVBGM, please cite the following paper in addition the above paper.
+```
+@inproceedings{akamatsu2019estimating,
+  title={Estimating Viewed Image Categories from fMRI Activity via Multi-view Bayesian Generative Model},
+  author={Akamatsu, Yusuke and Harakawa, Ryosuke and Ogawa, Takahiro and Haseyama, Miki},
+  booktitle={2019 IEEE 8th Global Conference on Consumer Electronics (GCCE)},
+  pages={127--128},
+  year={2019}
+}
+```
+
 # code
 - Semi-MVBGM.ipynb : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
 - Semi-MVBGM.py : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
