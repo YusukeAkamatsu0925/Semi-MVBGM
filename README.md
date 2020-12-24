@@ -18,7 +18,7 @@ If you use the code for MVBGM, please cite the following paper in addition the a
 @inproceedings{akamatsu2019estimating,
   title={Estimating Viewed Image Categories from fMRI Activity via Multi-view Bayesian Generative Model},
   author={Akamatsu, Yusuke and Harakawa, Ryosuke and Ogawa, Takahiro and Haseyama, Miki},
-  booktitle={2019 IEEE 8th Global Conference on Consumer Electronics (GCCE)},
+  booktitle={IEEE Global Conference on Consumer Electronics (GCCE)},
   pages={127--128},
   year={2019}
 }
