@@ -30,7 +30,7 @@ If you use the code for MVBGM, please cite the following paper in addition to th
 - MVBGM.ipynb : code of MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
 - MVBGM.py : code of MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
   
-  *Note that the above codes do not produce exactly the same results as TABLE I and Fig.8 since prior distributions are randomly initialized by a multivariate normal distribution.
+  Note that the above codes do not produce exactly the same results as TABLE I and Fig.8 since prior distributions are randomly initialized by a multivariate normal distribution.
   
 # requirements
 - Jupyter Notebook
