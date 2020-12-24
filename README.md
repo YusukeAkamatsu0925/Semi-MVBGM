@@ -39,7 +39,10 @@ If you use the code for MVBGM, please cite the following paper in addition to th
 - matplotlib
 - Pillow
 
+
 # data
+TBA
+<!--
 fMRI dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
 
 [5] T. Horikawa and Y. Kamitani, “Generic decoding of seen and imagined objects using hierarchical visual features,” Nature Commun., vol. 8, no. 15037, pp. 1–15, 2017.
@@ -63,3 +66,4 @@ fMRI dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericOb
     - word2vec_ILSVRC : additional category features for Semi-MVBGM
     - VGG19_ILSVRC_without : additional visual features for Semi-MVBGM-w/o
     - word2vec_ILSVRC_without : additional category features for Semi-MVBGM-w/o
+-->
