@@ -41,7 +41,7 @@ If you use the code for MVBGM, please cite the following paper in addition to th
 
 
 # data
-fMRI dataset* is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding).
+fMRI dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding)*.
 
 *Copyright : CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
