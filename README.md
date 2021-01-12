@@ -25,7 +25,7 @@ If you use the code for MVBGM, please cite the following paper in addition to th
 ```
 
 # code
-We are doing maintenance of codes.
+We are doing maintenance of codes. If you want to use codes as soon as possible, please send mail to yusukeakamatsu0925@gmail.com.
 <!-- 
 - Semi-MVBGM.ipynb : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
 - Semi-MVBGM.py : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
