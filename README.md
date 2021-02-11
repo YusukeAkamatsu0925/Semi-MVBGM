@@ -24,15 +24,14 @@ Please cite the following papers if you want to use this code in your work.
 ```
 
 # code
-We are doing maintenance of codes. If you want to use codes as soon as possible, please send mail to yusukeakamatsu0925@gmail.com.
-<!-- 
+<!-- We are doing maintenance of codes. If you want to use codes as soon as possible, please send mail to yusukeakamatsu0925@gmail.com.-->
 - Semi-MVBGM.ipynb : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
 - Semi-MVBGM.py : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
 - MVBGM.ipynb : code of MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
 - MVBGM.py : code of MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
   
   Note that the above codes do not produce exactly the same results as TABLE I and Fig.8 since prior distributions are randomly initialized by a multivariate normal distribution.
--->
+  
 # requirements
 - Jupyter Notebook
 - numpy
