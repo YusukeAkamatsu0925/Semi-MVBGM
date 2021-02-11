@@ -2,7 +2,6 @@
 Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 
 The code for the following paper:
-
 Y.Akamatsu, R.Harakawa, T.Ogawa, and M.Haseyama, 
 “Brain decoding of viewed image categories via semi-supervised multi-view Bayesian generative model,” 
 IEEE Transactions on Signal Processing, vol. 68, pp. 5769–5781, 2020.
