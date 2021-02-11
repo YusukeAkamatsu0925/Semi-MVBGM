@@ -1,28 +1,6 @@
 # Semi-MVBGM
 The code for Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 
-# cite
-Please cite the following papers if you want to use this code in your work.
-```
-@article{akamatsu2020brain,
-  title={Brain Decoding of Viewed Image Categories via Semi-Supervised Multi-View Bayesian Generative Model},
-  author={Akamatsu, Yusuke and Harakawa, Ryosuke and Ogawa, Takahiro and Haseyama, Miki},
-  journal={IEEE Transactions on Signal Processing},
-  volume={68},
-  pages={5769--5781},
-  year={2020}
-}
-```
-```
-@inproceedings{akamatsu2019estimating,
-  title={Estimating Viewed Image Categories from fMRI Activity via Multi-view Bayesian Generative Model},
-  author={Akamatsu, Yusuke and Harakawa, Ryosuke and Ogawa, Takahiro and Haseyama, Miki},
-  booktitle={IEEE Global Conference on Consumer Electronics (GCCE)},
-  pages={127--128},
-  year={2019}
-}
-```
-
 # code
 <!-- We are doing maintenance of codes. If you want to use codes as soon as possible, please send mail to yusukeakamatsu0925@gmail.com.-->
 - Semi-MVBGM.ipynb : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
@@ -66,3 +44,26 @@ fMRI dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericOb
     - word2vec_ILSVRC : additional category features for Semi-MVBGM
     - VGG19_ILSVRC_without : additional visual features for Semi-MVBGM-w/o
     - word2vec_ILSVRC_without : additional category features for Semi-MVBGM-w/o
+
+
+# cite
+Please cite the following papers if you want to use this code in your work.
+```
+@article{akamatsu2020brain,
+  title={Brain Decoding of Viewed Image Categories via Semi-Supervised Multi-View Bayesian Generative Model},
+  author={Akamatsu, Yusuke and Harakawa, Ryosuke and Ogawa, Takahiro and Haseyama, Miki},
+  journal={IEEE Transactions on Signal Processing},
+  volume={68},
+  pages={5769--5781},
+  year={2020}
+}
+```
+```
+@inproceedings{akamatsu2019estimating,
+  title={Estimating Viewed Image Categories from fMRI Activity via Multi-view Bayesian Generative Model},
+  author={Akamatsu, Yusuke and Harakawa, Ryosuke and Ogawa, Takahiro and Haseyama, Miki},
+  booktitle={IEEE Global Conference on Consumer Electronics (GCCE)},
+  pages={127--128},
+  year={2019}
+}
+```
