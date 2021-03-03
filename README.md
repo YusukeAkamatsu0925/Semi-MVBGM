@@ -2,9 +2,9 @@
 Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 
 The code for the following paper in IEEE Transactions on Signal Processing:
-> [Brain decoding of viewed image categories via semi-supervised multi-view Bayesian generative model](https://ieeexplore.ieee.org/abstract/document/9214493)
+> [Brain Decoding of Viewed Image Categories via Semi-Supervised Multi-View Bayesian Generative Model](https://ieeexplore.ieee.org/abstract/document/9214493)
 
-# code
+# Code
 <!-- We are doing maintenance of codes. If you want to use codes as soon as possible, please send mail to yusukeakamatsu0925@gmail.com.-->
 - Semi-MVBGM.ipynb : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
 - Semi-MVBGM.py : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
@@ -13,7 +13,7 @@ The code for the following paper in IEEE Transactions on Signal Processing:
   
   Note that the above codes do not produce exactly the same results as TABLE I and Fig.8 since prior distributions are randomly initialized by a multivariate normal distribution.
   
-# requirements
+# Requirements
 - Jupyter Notebook
 - numpy
 - scipy
@@ -21,7 +21,7 @@ The code for the following paper in IEEE Transactions on Signal Processing:
 - Pillow
 
 
-# data
+# Data
 fMRI dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericObjectDecoding)*.
 
 *Copyright : CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
@@ -49,7 +49,7 @@ fMRI dataset is provided from Ref. [5] (https://github.com/KamitaniLab/GenericOb
     - word2vec_ILSVRC_without : additional category features for Semi-MVBGM-w/o
 
 
-# cite
+# Cite
 Please cite the following papers if you want to use this code in your work.
 ```
 @article{akamatsu2020brain,
