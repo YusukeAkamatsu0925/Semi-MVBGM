@@ -6,10 +6,10 @@ The code for the following paper in IEEE Transactions on Signal Processing:
 
 # Code
 <!-- We are doing maintenance of codes. If you want to use codes as soon as possible, please send mail to yusukeakamatsu0925@gmail.com.-->
-- Semi-MVBGM.ipynb : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
-- Semi-MVBGM.py : code of Semi-MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
-- MVBGM.ipynb : code of MVBGM to produce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
-- MVBGM.py : code of MVBGM to produce TABLE I and Fig.8 of the manuscript (Python3.7)
+- Semi-MVBGM.ipynb : code of Semi-MVBGM to reproduce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
+- Semi-MVBGM.py : code of Semi-MVBGM to reproduce TABLE I and Fig.8 of the manuscript (Python3.7)
+- MVBGM.ipynb : code of MVBGM to reproduce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
+- MVBGM.py : code of MVBGM to reproduce TABLE I and Fig.8 of the manuscript (Python3.7)
   
   Note that the above codes do not produce exactly the same results as TABLE I and Fig.8 since prior distributions are randomly initialized by a multivariate normal distribution.
   
