@@ -4,6 +4,8 @@ Semi-Supervised Multi-View Bayesian Generative Model (Semi-MVBGM)
 The code for the following paper in IEEE Transactions on Signal Processing:
 > [Brain Decoding of Viewed Image Categories via Semi-Supervised Multi-View Bayesian Generative Model](https://ieeexplore.ieee.org/abstract/document/9214493)
 
+![Image 1](Approach.png)
+
 # Code
 <!-- We are doing maintenance of codes. If you want to use codes as soon as possible, please send mail to yusukeakamatsu0925@gmail.com.-->
 - Semi-MVBGM.ipynb : code of Semi-MVBGM to reproduce TABLE I and Fig.8 of the manuscript (Jupyter Notebook)
