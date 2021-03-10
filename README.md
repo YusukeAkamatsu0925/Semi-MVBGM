@@ -1,5 +1,5 @@
 # Semi-MVBGM
-The code for the following paper in IEEE Transactions on Signal Processing:
+The code for the following paper in IEEE Transactions on Signal Processing (TSP):
 > [Brain Decoding of Viewed Image Categories via Semi-Supervised Multi-View Bayesian Generative Model](https://ieeexplore.ieee.org/abstract/document/9214493)
 
 ![Image 1](Approach.png)
